@@ -22,6 +22,6 @@ nav .nav-link {
 }
 
 .nav-pills .nav-link.active {
-  color: white;
+  background-color: purple !important;
 }
 

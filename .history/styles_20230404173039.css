@@ -2,6 +2,7 @@ body {
   background-color: #eee;
 }
 
+main
 header {
   background-color: #fff;
   background-image: url("images/Header\ bg.svg");
@@ -21,7 +22,5 @@ nav .nav-link {
   color: #000;
 }
 
-.nav-pills .nav-link.active {
-  color: white;
-}
+
 
