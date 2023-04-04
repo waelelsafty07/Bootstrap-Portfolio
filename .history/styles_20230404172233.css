@@ -1,0 +1,26 @@
+body {
+  background-color: #eee;
+}
+header {
+  background-color: #fff;
+  background-image: url("images/Header\ bg.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  border-bottom-left-radius: 8rem;
+}
+nav .navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: blue;
+}
+nav .nav-link {
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: #000;
+}
+
+.flip-cards:nth-child(even) .card {
+  flex-direction: row-reverse !important;
+}
+
