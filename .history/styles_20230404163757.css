@@ -20,5 +20,10 @@ nav .nav-link {
   color: #000;
 }
 
+.no-style {
+  list-style: none;
+}
 
-
+ul {
+  padding: 0;
+}
