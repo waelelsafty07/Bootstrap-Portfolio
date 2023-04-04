@@ -16,7 +16,6 @@ nav .navbar-brand {
   font-size: 1.5rem;
   color: blue;
 }
-
 nav .nav-link {
   font-weight: 500;
   font-size: 1.3rem;
@@ -26,3 +25,4 @@ nav .nav-link {
 .nav-pills .nav-link.active {
   color: white;
 }
+
